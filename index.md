@@ -1,4 +1,4 @@
-# StyleSVC
+# StyleSVC:Singing Voice Conversion with Fine-grained Style Transfer
 The Offical Implement of StyleSVC:Singing Voice Conversion with Fine-grained Style Transfer
 
 ## Abstract
