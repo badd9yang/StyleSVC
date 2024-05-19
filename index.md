@@ -1,2 +1,5 @@
 # StyleSVC
-The Offical Implement of StyleSVC
+The Offical Implement of StyleSVC:Singing Voice Conversion with Fine-grained Style Transfer
+
+## Abstract
+Singing Voice Conversion (SVC) aims to alter the singer timbre of the singing voice while preserving its content information. However, current SVC models face limitations in transferring the specific singing techniques associated with the target singer (such as popular or ethnic styles). In this paper, we introduce StyleSVC, a novel approach designed to simultaneously transform a singer's timbre and singing technical style. First, we employ a VQ-based style encoder to extract fine-grained style features at the MIDI note level from reference speech, compressing them into a compact latent space. Additionally, we integrate cross-attention mechanisms to seamlessly inject these fine-grained features into the content information. Furthermore, we propose adaptive reversible instance normalization (AdaRvIN) to effectively fuse global style features. To mitigate potential timbre leakage, random perturbations are applied to the source vocal (e.g., formants and pitches). Experimental results demonstrate that our proposed method surpasses baseline in terms of style consistency. 
