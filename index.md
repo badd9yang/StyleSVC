@@ -204,7 +204,7 @@ The source singer’s singing skills were removed, and the target singer’s tim
 
 ## Ablation Studies
 
-We undertake ablation studies to showcase the efficacy of various designs incorporated within StyleSinger.
+We undertake ablation studies to showcase the efficacy of various designs incorporated within StyleSVC.
 
 <table style='width: 50%;'>
 	<thead>
