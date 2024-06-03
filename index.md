@@ -2,7 +2,12 @@
 
 
 
-[TOC]
+
+- [StyleSVC:Singing Voice Conversion with Multi-scale Style Transfer](#stylesvcsinging-voice-conversion-with-multi-scale-style-transfer)
+	- [Abstract](#abstract)
+	- [Style Transfer Samples](#style-transfer-samples)
+	- [Ablation Studies](#ablation-studies)
+
 
 ## Abstract
 
