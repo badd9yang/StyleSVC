@@ -1,3 +1,3 @@
-# StyleSVC: Singing Voice Conversion with Fine-grained Style Transfer
+# StyleSVC:Singing Voice Conversion with Multi-scale Style Transfer
 
 TBC
