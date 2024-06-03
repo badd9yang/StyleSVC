@@ -23,7 +23,7 @@ Singing Voice Conversion (SVC) aims to alter the identity of source singing voic
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/_ni_men_22_[1_1_24]to[0_0_0]_ori.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_ori.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/0_0_0_reference.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
@@ -39,19 +39,19 @@ Singing Voice Conversion (SVC) aims to alter the identity of source singing voic
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/_ni_men_22_[1_1_24]to[0_0_0]_so-vits-svc.wav" type="audio/wav"></audio>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_so-vits-svc.wav" type="audio/wav"></audio>
             </td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/_ni_men_22_[1_1_24]to[0_0_0]_so-vits-svc_f0.wav" type="audio/wav"></audio></td>
-      		<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/_ni_men_22_[1_1_24]to[0_0_0]_so-vits-svc_gst.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/_ni_men_22_[1_1_24]to[0_0_0]_stylesvc.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_so-vits-svc_f0.wav" type="audio/wav"></audio></td>
+      		<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_so-vits-svc_gst.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_stylesvc.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
     <tbody>
           <tr>
-            <td><img src="assert\pic\_ni_men_22_[1_1_24]to[0_0_0]_so-vits-svc.png" alt="so-vits" style="zoom:19%;" /> </td>  
-			<td><img src="assert\pic\_ni_men_22_[1_1_24]to[0_0_0]_so-vits-svc_f0.png" alt="so-vits_f0" style="zoom:19%;" /></td>  
-            <td><img src="assert\pic\_ni_men_22_[1_1_24]to[0_0_0]_so-vits-svc_gst.png" alt="so-vits-gst" style="zoom:19%;" /></td>  
-            <td><img src="assert\pic\_ni_men_22_[1_1_24]to[0_0_0]_stylesvc.png" alt="stylesvc" style="zoom:19%;" /></td>  
+            <td><img src="assert\pic\ni_men_22_[1_1_24]to[0_0_0]_so-vits-svc.png" alt="so-vits" style="zoom:19%;" /> </td>  
+			<td><img src="assert\pic\ni_men_22_[1_1_24]to[0_0_0]_so-vits-svc_f0.png" alt="so-vits_f0" style="zoom:19%;" /></td>  
+            <td><img src="assert\pic\ni_men_22_[1_1_24]to[0_0_0]_so-vits-svc_gst.png" alt="so-vits-gst" style="zoom:19%;" /></td>  
+            <td><img src="assert\pic\ni_men_22_[1_1_24]to[0_0_0]_stylesvc.png" alt="stylesvc" style="zoom:19%;" /></td>  
 		</tr>
     </tbody>
 </table>
@@ -71,7 +71,7 @@ Successfully transferring the timbre, singing techniques.
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/_ni_men_22_[1_1_24]to[0_1_7]_ori.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_1_7]_ori.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/0_1_7_reference.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
@@ -88,19 +88,19 @@ Successfully transferring the timbre, singing techniques.
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/_ni_men_22_[1_1_24]to[0_1_7]_so-vits-svc.wav" type="audio/wav"></audio>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_1_7]_so-vits-svc.wav" type="audio/wav"></audio>
             </td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/_ni_men_22_[1_1_24]to[0_1_7]_so-vits-svc_f0.wav" type="audio/wav"></audio></td>
-      		<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/_ni_men_22_[1_1_24]to[0_1_7]_so-vits-svc_gst.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/_ni_men_22_[1_1_24]to[0_1_7]_stylesvc.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_1_7]_so-vits-svc_f0.wav" type="audio/wav"></audio></td>
+      		<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_1_7]_so-vits-svc_gst.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_1_7]_stylesvc.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
     <tbody>
           <tr>
-            <td><img src="assert\pic\_ni_men_22_[1_1_24]to[0_1_7]_so-vits-svc.png" alt="so-vits" style="zoom:19%;" /> </td>  
-			<td><img src="assert\pic\_ni_men_22_[1_1_24]to[0_1_7]_so-vits-svc_f0.png" alt="so-vits_f0" style="zoom:19%;" /></td>  
-            <td><img src="assert\pic\_ni_men_22_[1_1_24]to[0_1_7]_so-vits-svc_gst.png" alt="so-vits-gst" style="zoom:19%;" /></td>  
-            <td><img src="assert\pic\_ni_men_22_[1_1_24]to[0_1_7]_stylesvc.png" alt="stylesvc" style="zoom:19%;" /></td>  
+            <td><img src="assert\pic\ni_men_22_[1_1_24]to[0_1_7]_so-vits-svc.png" alt="so-vits" style="zoom:19%;" /> </td>  
+			<td><img src="assert\pic\ni_men_22_[1_1_24]to[0_1_7]_so-vits-svc_f0.png" alt="so-vits_f0" style="zoom:19%;" /></td>  
+            <td><img src="assert\pic\ni_men_22_[1_1_24]to[0_1_7]_so-vits-svc_gst.png" alt="so-vits-gst" style="zoom:19%;" /></td>  
+            <td><img src="assert\pic\ni_men_22_[1_1_24]to[0_1_7]_stylesvc.png" alt="stylesvc" style="zoom:19%;" /></td>  
 		</tr>
     </tbody>
 </table>
@@ -204,7 +204,7 @@ The source singer’s singing skills were removed, and the target singer’s tim
 
 ## Ablation Studies
 
-We undertake ablation studies to showcase the efficacy of various designs incorporated within StyleSVC.
+We undertake ablation studies to showcase the efficacy of various designs incorporated within StyleSinger.
 
 <table style='width: 50%;'>
 	<thead>
@@ -215,7 +215,7 @@ We undertake ablation studies to showcase the efficacy of various designs incorp
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/_ni_men_22_[1_1_24]to[0_0_0]_ori.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_ori.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/0_0_0_reference.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
@@ -232,21 +232,20 @@ We undertake ablation studies to showcase the efficacy of various designs incorp
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/_ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noRSA_USIN.wav" type="audio/wav"></audio>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noRSA_USIN.wav" type="audio/wav"></audio>
             </td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/_ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noRSA.wav" type="audio/wav"></audio></td>
-      		<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/_ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noUSIN.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/_ni_men_22_[1_1_24]to[0_0_0]_stylesvc.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noRSA.wav" type="audio/wav"></audio></td>
+      		<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noUSIN.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_stylesvc.wav" type="audio/wav"></audio></td>
 		</tr>
      <tbody>
           <tr>
-            <td><img src="assert\pic\_ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noRSA_USIN.png" alt="so-vits" style="zoom:19%;" /> </td>  
-			<td><img src="assert\pic\_ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noRSA.png" alt="so-vits_f0" style="zoom:19%;" /></td>  
-            <td><img src="assert\pic\_ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noUSIN.png" alt="so-vits-gst" style="zoom:19%;" /></td>  
-            <td><img src="assert\pic\_ni_men_22_[1_1_24]to[0_0_0]_stylesvc_ablation.png" alt="stylesvc" style="zoom:19%;" /></td>  
+            <td><img src="assert\pic\ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noRSA_USIN.png" alt="so-vits" style="zoom:19%;" /> </td>  
+			<td><img src="assert\pic\ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noRSA.png" alt="so-vits_f0" style="zoom:19%;" /></td>  
+            <td><img src="assert\pic\ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noUSIN.png" alt="so-vits-gst" style="zoom:19%;" /></td>  
+            <td><img src="assert\pic\ni_men_22_[1_1_24]to[0_0_0]_stylesvc_ablation.png" alt="stylesvc" style="zoom:19%;" /></td>  
 		</tr>
     </tbody>
 </table>
-
 
 
