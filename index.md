@@ -222,7 +222,6 @@ We undertake ablation studies to showcase the efficacy of various designs incorp
 		</tr>
 	</tbody>
 </table>
-
 <table style='width: 100%;'>
 	<thead>
 		<tr>
