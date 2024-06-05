@@ -211,12 +211,10 @@ We undertake ablation studies to showcase the efficacy of various designs incorp
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_ori.wav" type="audio/wav"></audio></td>
+	    <td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_ori.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/0_0_0_reference.wav" type="audio/wav"></audio></td>
 		</tr>
-	</tbody>
-</table>
-
+	</tbody></table>
 <table style='width: 100%;'>
 	<thead>
 		<tr>
