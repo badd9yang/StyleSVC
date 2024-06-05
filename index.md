@@ -228,8 +228,8 @@ We undertake ablation studies to showcase the efficacy of various designs incorp
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noRSA_USIN.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noRSA.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noRSE_USIN.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noRSE.wav" type="audio/wav"></audio></td>
       			<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noUSIN.wav" type="audio/wav"></audio></td>
             		<td style="text-align: center"><audio controls style="width: 150px;"><source src="assert/ni_men_22_[1_1_24]to[0_0_0]_stylesvc.wav" type="audio/wav"></audio></td>
 		</tr>
