@@ -220,8 +220,8 @@ We undertake ablation studies to showcase the efficacy of various designs incorp
 <table style='width: 100%;'>
 	<thead>
 		<tr>
-			<th style="text-align: center">StyleSVC w/o RSA USIN</th>
-			<th style="text-align: center">StyleSVC w/o RSA</th>
+			<th style="text-align: center">StyleSVC w/o RSE & USIN</th>
+			<th style="text-align: center">StyleSVC w/o RSE</th>
       			<th style="text-align: center">StyleSVC w/o USIN</th>
             		<th style="text-align: center">StyleSVC</th>
 		</tr>
@@ -235,8 +235,8 @@ We undertake ablation studies to showcase the efficacy of various designs incorp
 		</tr>
      	<tbody>
           	<tr>
-            		<td><img src="assert\pic\ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noRSA_USIN.png" alt="so-vits" style="zoom:19%;" /> </td>  
-			<td><img src="assert\pic\ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noRSA.png" alt="so-vits_f0" style="zoom:19%;" /></td>  
+            		<td><img src="assert\pic\ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noRSE_USIN.png" alt="so-vits" style="zoom:19%;" /> </td>  
+			<td><img src="assert\pic\ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noRSE.png" alt="so-vits_f0" style="zoom:19%;" /></td>  
             		<td><img src="assert\pic\ni_men_22_[1_1_24]to[0_0_0]_stylesvc_noUSIN.png" alt="so-vits-gst" style="zoom:19%;" /></td>  
             		<td><img src="assert\pic\ni_men_22_[1_1_24]to[0_0_0]_stylesvc_ablation.png" alt="stylesvc" style="zoom:19%;" /></td>  
 		</tr>
