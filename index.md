@@ -11,7 +11,7 @@
 
 Singing Voice Conversion (SVC) aims to alter the identity of source singing voice while maintain the content information. However, due to the rich expressiveness of singing voices, current SVC models face limitations in transferring the complex and detailed singing styles (such as timbre, singing methods, pronunciation and singing techniques) of target singers. In this paper, we introduce StyleSVC, a novel model designed to transfer the multi-scale style of a reference singer. First, we propose an RVQ-based style encoder that extracts MIDI note-level fine-grained style features from reference singing voice and seamlessly injects these fine-grained features into content information through cross-attention mechanism. In addition, global style information (including timbre and singing method) is extracted by fine-tuning MERT. Finally, we introduce Uncertain Style Instance Normalization (USIN) to avoid source singer style leakage and balance style and sound quality through an activation strategy with increased probability. Experimental results show that our proposed method surpasses the baseline.
 
-![model](.\assert\pic\model.png)
+![model](assert\pic\model.png)
 
 ## Style Transfer Samples
 **1. reference global style: ethnic, male**
